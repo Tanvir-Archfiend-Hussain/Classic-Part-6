@@ -17,3 +17,9 @@ Regards, <br>
 Tanvir Hussain <br>
 
 <img align="center" src="https://cdn.vox-cdn.com/thumbor/8soG0Y1WzzIEqGcW3N--4-5naB4=/0x0:1680x1050/1680x949/filters:focal(840x525:841x526):no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/9130449/YTLogo_old_new_animation.gif" />
+
+
+JAVASCRIPT <br>
+HTML <br>
+CSS <br>
+SCSS <br>
