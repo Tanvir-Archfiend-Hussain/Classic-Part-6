@@ -9,3 +9,9 @@ This project was designed for me to learn how to link HTML files and work with v
 <h1 align="center">▶️ CHECK OUT THE YoutTube FOR THIS PROJECT:▶️ </h1>
 Video One :https://www.youtube.com/watch?v=-p5HLsP7jT8 <br>
 Video Two :https://www.youtube.com/watch?v=Tyz7P6qOl6s <br>
+
+Dear Coders, <br>
+Please feel free to look through the code and learn something new. <br> 
+Also feel free to check the two YouTube videos for these projects. <br>
+Regards, <br>
+Tanvir Hussain <br>
